@@ -10,7 +10,7 @@ Detta repository kommer att fyllas på allt eftersom kurserna fortlöper.
 * **ML-LABB 1: Hur exakt är π?** (Kapitel 2: Fysikens arbetsmetoder och modeller)
   * [Starta laborationen i Google Colab](https://colab.research.google.com/drive/1iDe7cRy_rrm-EFkiFl3juFZ4EPTxNN8L#scrollTo=F1h_D2b6SkmD)
   * **Syfte:** Eleverna mäter diameter och omkrets på runda föremål och låter datorn hitta sambandet via linjär regression. Detta introducerar maskininlärningens grundkoncept (förlustfunktion/felsumma, träning av modell) parallellt med fysikens begrepp (noggrannhet, precision och mätosäkerhet).
-  * Läs mer i [Lärar- och elevhandledningen](ML-LABB1_Hur_exakt_ar_pi_LABBHANDLEDNING.docx).
+
 
 ## Kom igång för elever
 Så här gör du för att köra laborationerna i Google Colab:
